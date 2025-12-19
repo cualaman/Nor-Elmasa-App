@@ -36,9 +36,6 @@ An innovative mobile application in the field of religious tourism and Umrah org
 | --- | --- | --- | --- | --- |
 | ![Noor Al-Masah 15](https://github.com/user-attachments/assets/f2bfa983-63ad-4b8c-8760-99ee57aa7646) | ![Noor Al-Masah 16](https://github.com/user-attachments/assets/2ba1c37c-5cc0-4fc0-94ec-dccb9525cead) | ![Noor Al-Masah 17](https://github.com/user-attachments/assets/1ec4024d-7d18-4d9f-9bfc-ddabfd5b48b9) | ![Noor Al-Masah 18](https://github.com/user-attachments/assets/feb2b061-5656-4667-8a57-8c1cd5306470) | ![Noor Al-Masah 19](https://github.com/user-attachments/assets/ffc408f2-f299-42f3-a30e-e742287ca480) |
 
-لو عايز تضيف وصف تحت كل صورة أو تغير الترتيب (مثلًا من الـ home screen للـ Umrah booking ثم passport scan إلخ)، قولي عشان أعدلها. كمان لو عايز نضيف أكثر من صف أو نغير عدد الأعمدة عشان تبقى أوضح على الموبايل.
-
-
 
 ---
 
