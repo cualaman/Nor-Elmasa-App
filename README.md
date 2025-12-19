@@ -1,18 +1,25 @@
 # 📌 Nor-Elmasa | نور الماسة
 
-An innovative application in the field of dentistry that facilitates the connection between dental students and doctors and patients seeking appropriate treatment at nominal prices or for free.
+An innovative mobile application in the field of religious tourism and Umrah organization, making it easy for users to book complete Umrah trips, land trips, and hotels in the holy cities in a simple and secure way.
 
-👨‍⚕️ For students and doctors:
-• Obtaining real patients near your faculty location.
-• Selecting cases according to the type of treatment (cleaning, filling, extraction, prosthesis).
+🧳 For users:
+• Choose the type of trip (land trips, Umrah trips, hotel bookings).
+• Display available dates via an interactive calendar and trip details with automatic cost calculation.
+• Multiple Umrah packages (e.g., VIP, Standard, Pro) with different features.
+• Automatic passport scanning to extract data with the option to rescan.
+• Comprehensive confirmation of all details before payment (partial or full).
 
 **Key Features** 
-- Auth (Login - Register - Verify Account , OTP Validation - Reset Password - Update Password - Profile - Edit Profile)
-- OTP
-- Notification
-- Upload Case Image
-- Doctor Select Case 
-- Payment Gateway
+
+- **Land Trips Booking**: Display a calendar for available dates, trip details, specify the number of individuals, cost calculation, then secure payment.
+
+- **Umrah Trips Booking**: Calendar for available Umrah dates, display multiple packages (VIP, Standard, Pro) with feature details, specify the number of individuals, rooms, and room types, passport scanning using OCR technology for automatic data extraction (with rescan option), comprehensive confirmation screen for booking data, passports, rooms, persons, and total cost, partial or full payment.
+
+- **Hotel Booking**: Support for 4 main cities, filter by city, view hotel details, rooms, and capacity per room, booking and payment via a secure payment gateway.
+
+- **Additional Features**: Instant notifications, a screen displaying the user's past and current bookings, full authentication system (login, registration, password reset/update, OTP verification, profile viewing and editing).
+
+**Key Features** 
 
 ---
 
